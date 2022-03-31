@@ -1,12 +1,9 @@
 # YoutubeAPI
 This app connects to Youtube API to create Postgres videos database
 
-### Info
-In order to connect to Google's Cloud Youtube API, this script uses account that was 
-created specifically for that goal and is unused on daily basis.
+
 ### How to use
-To get started, create google account and log into Google Cloud to create credentials. In this case we only need Api key, because we don't gather user info.\
-Save API Key Token in apikey.txt file.
+To get started, create google account and log into Google Cloud to create credentials. In this case we only need Api key, because we don't gather user info. Save API Key Token in apikey.txt file.
 
 
 
