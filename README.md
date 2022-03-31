@@ -5,7 +5,11 @@ This app connects to Youtube API to create Postgres videos database
 In order to connect to Google's Cloud Youtube API, this script uses account that was 
 created specifically for that goal and is unused on daily basis.
 ### How to use
-To get started, you need to install some packages.\
+To get started, create google account and log into Google Cloud to create credentials. In this case we only need Api key, because we don't gather user info.
+
+
+
+After that you need to install some packages.\
 `pip install pip install --upgrade google-api-python-client`\
 `pip install --upgrade google-auth-oauthlib google-auth-httplib2 from googleapiclient.discovery import build`\
 `pip install json`\
