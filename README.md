@@ -13,7 +13,7 @@ To get started, you need to install some packages.\
 `pip install psycopg`
 
 If you don't have Postgres database, you will need to download it from\
-https://www.postgresql.org/download/ \
+https://www.postgresql.org/download/ 
 
 
 Then in command promt create a database by simply typing:\
